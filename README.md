@@ -1,7 +1,5 @@
 # breast-cancer-detection
 
-# Breast Cancer Classification Model
-
 This repository contains a machine learning notebook that classifies breast cancer diagnoses based on clinical data. Several popular classification algorithms were implemented and evaluated for performance.
 
 ## Project Overview
